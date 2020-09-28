@@ -1,0 +1,55 @@
+# Project exclude paths
+/.gradle/
+/Problems/A capital letter or a digit/out/
+/Problems/A capital letter or a digit/out/production/classes/
+/Problems/Between two numbers/out/
+/Problems/Between two numbers/out/production/classes/
+/Problems/Boxes/out/
+/Problems/Boxes/out/production/classes/
+/Problems/Check the sum/out/
+/Problems/Check the sum/out/production/classes/
+/Problems/Comparing sums/out/
+/Problems/Comparing sums/out/production/classes/
+/Problems/Counting positive numbers/out/
+/Problems/Counting positive numbers/out/production/classes/
+/Problems/Desks/out/
+/Problems/Desks/out/production/classes/
+/Problems/Digits or not/out/
+/Problems/Digits or not/out/production/classes/
+/Problems/Four numbers/out/
+/Problems/Four numbers/out/production/classes/
+/Problems/Groundhogs at the party/out/
+/Problems/Groundhogs at the party/out/production/classes/
+/Problems/Hello, Kotlin/out/
+/Problems/Hello, Kotlin/out/production/classes/
+/Problems/Max values of integer types/out/
+/Problems/Max values of integer types/out/production/classes/
+/Problems/Maximum element divisible by 4/out/
+/Problems/Maximum element divisible by 4/out/production/classes/
+/Problems/National assembly/out/
+/Problems/National assembly/out/production/classes/
+/Problems/Printing each word in a new line/out/
+/Problems/Printing each word in a new line/out/production/classes/
+/Problems/Read and print/out/
+/Problems/Read and print/out/production/classes/
+/Problems/Reversing a number/out/
+/Problems/Reversing a number/out/production/classes/
+/Problems/Size, min and max/out/
+/Problems/Size, min and max/out/production/classes/
+/Problems/The number of tens/out/
+/Problems/The number of tens/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Problems/The roots of equation/out/
+/Problems/The roots of equation/out/production/classes/
+/Problems/The sum of N numbers/out/
+/Problems/The sum of N numbers/out/production/classes/
+/Problems/Triangle/out/
+/Problems/Triangle/out/production/classes/
+/Problems/Vowel or not/out/
+/Problems/Vowel or not/out/production/classes/
+/Problems/Within a range/out/
+/Problems/Within a range/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
